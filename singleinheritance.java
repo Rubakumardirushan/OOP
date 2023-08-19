@@ -1,4 +1,15 @@
+class animal{
+    String name;
+    public void animalclass(){
 
+    }
+}
+class cat{
+    String name;
+    public void catclass(){
+
+    }
+}
 
 
 
