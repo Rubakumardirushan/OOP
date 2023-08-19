@@ -9,6 +9,7 @@ class cat{
     public void catclass(){
 
     }
+
 }
 
 
