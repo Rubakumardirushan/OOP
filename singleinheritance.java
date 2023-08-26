@@ -1,13 +1,13 @@
 class animal{
     String name;
     public void animalclass(){
-System.out.println(" i am in animal class");
+System.out.println(" i am  animal class");
     }
 }
 class cat extends animal{
     String name;
     public void catclass(){
-System.out.println(" i am in cat class");
+System.out.println(" i am  cat class");
     }
     public void namechanage( cat c1){
 c1.name="newname";
